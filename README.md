@@ -1,4 +1,2 @@
 # startCoding
-practice that Java, Android, JavaScript, Algorithm 
-
-About C
+practice about Java, Android, JavaScript, Algorithm 
